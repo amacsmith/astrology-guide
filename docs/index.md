@@ -1,4 +1,3 @@
-
 # Welcome to the Astrology Guide
 
 Explore the following sections to learn astrology:
@@ -12,12 +11,15 @@ Explore the following sections to learn astrology:
 7. [Transits and Progressions](transits.md)
 8. [Astrological Community and Continued Learning](community.md)
 
+![Astrology Wheel](https://images.pexels.com/photos/556669/pexels-photo-556669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 Track Your Progress:
-- [ ] Complete the **Foundations** of astrology.
-- [ ] Study all **Zodiac Signs** and their traits.
-- [ ] Learn the **Elements and Modalities**.
-- [ ] Understand **Natal Charts**.
-- [ ] Master the **Planets** and their significance.
-- [ ] Dive into the **Houses** of astrology.
-- [ ] Study **Transits** and progressions.
-- [ ] Explore the **Astrological Community**.
+
+-   [ ] Complete the **Foundations** of astrology.
+-   [ ] Study all **Zodiac Signs** and their traits.
+-   [ ] Learn the **Elements and Modalities**.
+-   [ ] Understand **Natal Charts**.
+-   [ ] Master the **Planets** and their significance.
+-   [ ] Dive into the **Houses** of astrology.
+-   [ ] Study **Transits** and progressions.
+-   [ ] Explore the **Astrological Community**.
