@@ -1,0 +1,26 @@
+
+/* Add custom typography for headings */
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #eceff1;
+}
+
+/* Style progress checklists */
+ul.checklist li {
+  list-style-type: none;
+  position: relative;
+  padding-left: 30px;
+}
+ul.checklist li:before {
+  content: "☑";
+  position: absolute;
+  left: 0;
+  color: #1e88e5;
+}
+
+/* Style images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
