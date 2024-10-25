@@ -1,1 +1,1 @@
-[https://amacsmith.github.io/astrology-guide/]](Astrology learning guide)
+[Astrology learning guide](https://amacsmith.github.io/astrology-guide/)
