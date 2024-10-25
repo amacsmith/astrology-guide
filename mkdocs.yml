@@ -31,3 +31,12 @@ markdown_extensions:
   - pymdownx.tasklist
   - toc:
       permalink: true
+
+# Add this line to specify your repository name
+repo_url: https://github.com/amacsmith/astrology-guide
+
+# Add to configure the site to use GitHub Pages
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/amacsmith/astrology-guide
