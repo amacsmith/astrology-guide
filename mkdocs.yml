@@ -33,10 +33,10 @@ markdown_extensions:
       permalink: true
 
 # Add this line to specify your repository name
-repo_url: https://github.com/amacsmith/astrology-guide
+repo_url: https://github.com/amacsmith/astrology-guide.git
 
 # Add to configure the site to use GitHub Pages
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/amacsmith/astrology-guide
+      link: https://github.com/amacsmith/astrology-guide.git
